@@ -1,5 +1,5 @@
-# [Kodluyoruz Frontend 101](https://github.com/erdinckurt/kodluyoruz-frontend-101-egitimi) Egitimi HTML Temelleri Bolumu Ikinci Odev
+# [Kodluyoruz Frontend 101](https://github.com/erdinckurt/kodluyoruz-frontend-101-egitimi) Eğitimi HTML Temelleri Bölümü İkinci Ödev
 
 Bu ödevde yeni öğrendiğim bilgiler dahilinde sayfamı geliştirmeye devam ettim.
 
-[Click to see](https://erdinckurt.github.io/frontend-101-html-ikinci-odev/)
+[Görmek için tıklayın](https://erdinckurt.github.io/frontend-101-html-ikinci-odev/)
